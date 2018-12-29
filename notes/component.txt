@@ -1,0 +1,6 @@
+//React Component
+
+Is a function or class
+That produces HTML using jsx
+Handles feedback from the user using event handlers
+

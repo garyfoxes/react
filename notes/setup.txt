@@ -1,0 +1,16 @@
+npm i -g create-react-app
+
+//Includes Babel,Webpack,Dev Server
+create-react-app <projectName> 
+
+//Babel
+Used to convert newer versions of js to standard js which will be supported 
+by all browsers.
+
+Babel can also convert jsx.
+
+//public folder
+Contains static files/Images
+
+//Run project
+yarn start
